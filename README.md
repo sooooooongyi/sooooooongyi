@@ -27,12 +27,6 @@
 
 <br><br>
 
-<h4>✨ About Me ✨</h4>
-<img src="https://img.shields.io/badge/velog-ff9999?style=flat-square&logo=&logoColor=white?link=https://velog.io/@songsong"/>
-<img src="https://img.shields.io/badge/github-8977AD?style=flat-square&logo=&logoColor=white?link=https://github.com/thddlmy"/>
-
-<br><br>
-
 [![Songyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=thddlmy&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
