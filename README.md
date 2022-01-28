@@ -1,4 +1,4 @@
-<div align="center"><h2> Hi! I'm Song Yi 💖</h2><hr><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthddlmy&count_bg=%23F36F92&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></div>
+<div align="center"><h2> Hi! I'm Song Yi 💖</h2><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthddlmy&count_bg=%23F36F92&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></div>
 <br>
 <div align="center">
   <h4>✨ Tech Stack ✨</h4>
